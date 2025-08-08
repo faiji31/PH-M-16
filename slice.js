@@ -9,8 +9,8 @@ const friends ="rahim karim jamil mustaq hasib";
 console.log(friends);
 console.log(friends.split(','))
 
-const dept = "tasfiq , musta" ;
-console.log(dept.join("Liam"));
+// const dept = "tasfiq , musta" ;
+// console.log(dept.join("Liam"));
 
 const fname = "Faiji";
 const lname ="Liam";
