@@ -11,3 +11,8 @@ console.log(friends.split(','))
 
 const dept = "tasfiq , musta" ;
 console.log(dept.join("Liam"));
+
+const fname = "Faiji";
+const lname ="Liam";
+const fullname = fname + " " + lname;
+console.log(fullname);
